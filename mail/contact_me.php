@@ -1,40 +1,34 @@
-<?php
-$email_address = filter_var($_POST['email'], FILTER_VALIDATE_EMAIL);
-
-// Check for empty fields
-if (empty($_POST['name']) || 
-    empty($_POST['email']) || 
-    empty($_POST['phone']) || 
-    empty($_POST['message']) || 
-    !$email_address) {
-    echo "No arguments Provided!";
-    return false;
-}
-
-$name = $_POST['name'];
-if ($email_address === FALSE) {
-    echo 'Invalid email';
-    exit(1);
-}
-
-$phone = $_POST['phone'];
-$message = $_POST['message'];
-
-if (empty($_POST['_gotcha'])) { // If hidden field was filled out (by spambots) don't send!
-    // Create the email and send the message
-    $to = 'cycleabudhabi@gmail.com'; // Email address where the form will send a message
-    $email_subject = "Website Contact Form: $name";
-    $email_body = "You have received a new message from your website contact form.\n\n".
-                  "Here are the details:\n\nName: $name\n\nEmail: $email_address\n\n".
-                  "Phone: $phone\n\nMessage:\n$message";
-    $headers = "From: noreply@yourdomain.com\n"; // This is the email address the generated message will be from.
-    $headers .= "Reply-To: $email_address";
-
-    // Send the email
-    mail($to, $email_subject, $email_body, $headers);
-    return true;
-}
-
-echo "Gotcha, spambot!";
-return false;
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+</head>
+<body>
+    <h1>Contact Us</h1>
+    <form action="https://formspree.io/f/xeoovewl" method="POST">
+        <label>
+            Your Name:
+            <input type="text" name="name" required>
+        </label>
+        <br>
+        <label>
+            Your Email:
+            <input type="email" name="email" required>
+        </label>
+        <br>
+        <label>
+            Your Phone:
+            <input type="text" name="phone" required>
+        </label>
+        <br>
+        <label>
+            Your Message:
+            <textarea name="message" required></textarea>
+        </label>
+        <br>
+        <button type="submit">Send</button>
+    </form>
+</body>
+</html>
