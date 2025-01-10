@@ -6,8 +6,8 @@ img: cabin.png
 alt: image-alt
 project-date: January 2025
 description: >
-  ![Profile Image](profile.png)
-  This project includes a dynamic profile image.
+  <img src="profile.png" alt="Profile Image" style="max-width: 100%;">
+  <p>This project includes a dynamic profile image.</p>
 
 
 ---
