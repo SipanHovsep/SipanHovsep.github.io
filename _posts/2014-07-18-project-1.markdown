@@ -6,8 +6,10 @@ img: cabin.png
 alt: image-alt
 project-date: January 2025
 description: >
-  <img src="profile.png" alt="Profile Image" style="max-width: 100%;">
-  <p>This project includes a dynamic profile image.</p>
+  {% capture description_content %}
+  {% include_relative 1.txt %}
+  {% endcapture %}
+  {{ description_content | markdownify }}
 
 
 ---
