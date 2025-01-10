@@ -7,8 +7,9 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: |
-  You must always wear a helmet.
-  You are not allowed to ride on a shared road with a speed limit over 60km/h.
+description:
+  - "You must always wear a helmet."
+  - "You are not allowed to ride on a shared road with a speed limit over 60km/h."
+
 
 ---
