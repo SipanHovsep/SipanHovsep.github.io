@@ -5,11 +5,8 @@ date: 2025-01-10
 img: cabin.png
 alt: image-alt
 project-date: January 2025
-description: >
-  {% capture description_content %}
-  {% include_relative 1.txt %}
-  {% endcapture %}
-  {{ description_content | markdownify }}
-
+description: |
+  This is the first line.
+  This is the second line.
 
 ---
