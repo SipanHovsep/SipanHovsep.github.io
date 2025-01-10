@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2025-01-10
 img: circus.png
 alt: image-alt
-project-date: April 2014
+project-date: January 2025
 description: "You must always wear a helmet.\nYou are not allowed to ride on a shared road with a speed limit over 60km/h."
 
 
