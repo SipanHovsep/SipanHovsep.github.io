@@ -5,21 +5,6 @@ date: 2025-01-10
 img: cabin.png
 alt: image-alt
 project-date: January 2025
-description: 
-chapter_1:
-  title: "How to Get a Bike"
-  content:
-    - student_bike_share_program:
-        description: "NYUAD offers a weekly bike share program. The sign-up link is posted every Tuesday on the Student Portal. Selection is random. If selected, you can pick up the bike from the B2 parking bike storage room on Thursday and must return it the following Tuesday."
-        rules:
-          - "Students selected for a bike cannot reapply the next week."
-          - "If you need a bike during someone else’s turn, you can borrow a friend’s bike (with their consent) or apply on their behalf using their name."
-    - purchasing_a_bike:
-        closest_shop: "Located inside the NYUAD campus, next to West Parking."
-        price: "Around AED 1,000."
-        payment_options: "Can be purchased with Falcon Dirhams."
-        other_shops: "Visit Decathlon at Yas Mall or other bike shops in Abu Dhabi malls."
-    - renting_a_bike:
-        description: "Several rental options are available around Abu Dhabi, including bike-sharing stations and rental shops in tourist areas."
+description: Buy
 
 ---
