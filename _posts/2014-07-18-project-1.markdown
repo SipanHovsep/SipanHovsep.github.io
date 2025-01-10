@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2025-01-10
 img: cabin.png
 alt: image-alt
-project-date: April 2014
+project-date: January 2025
 description: 
 chapter_1:
   title: "How to Get a Bike"
