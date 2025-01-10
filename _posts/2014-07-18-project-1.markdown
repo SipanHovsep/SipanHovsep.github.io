@@ -5,6 +5,9 @@ date: 2025-01-10
 img: cabin.png
 alt: image-alt
 project-date: January 2025
-description: Buy
+description: >
+  ![Profile Image](profile.png)
+  This project includes a dynamic profile image.
+
 
 ---
