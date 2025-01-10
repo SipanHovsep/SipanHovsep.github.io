@@ -5,7 +5,5 @@ date: 2025-01-10
 img: cake.png
 alt: image-alt
 project-date: January 2025
-client: Start Bootstrap
-category: Web Development
 description: Renting is good owning is better
 ---
