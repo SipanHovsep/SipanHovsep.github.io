@@ -7,3 +7,27 @@ alt: image-alt
 project-date: January 2025
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
+---
+layout: default
+modal-id: 5
+date: 2025-01-10
+img: safe.png
+alt: image-alt
+project-date: January 2025
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+---
+
+<div class="project-content">
+    <h2>Project Description</h2>
+    <p>Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+    
+    <h3>Embedded Google Map</h3>
+    <iframe 
+        src="https://www.google.com/maps/d/u/0/embed?mid=1lZdCvFmYJq77S0Sjpb-OrTSmaPOKO7s&ehbc=2E312F" 
+        width="640" 
+        height="480" 
+        style="border: 0;" 
+        allowfullscreen="" 
+        loading="lazy">
+    </iframe>
+</div>
