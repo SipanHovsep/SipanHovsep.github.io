@@ -17,7 +17,7 @@
             <hr class="star-primary">
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
 
-            <!-- Embed PDF if file-link exists -->
+            <!-- Corrected logic for file-link and description -->
             {% if post.file-link %}
             <iframe 
               src="{{ post.file-link }}" 
@@ -25,7 +25,7 @@
               height="500px" 
               style="border: none;">
             </iframe>
-            {% elif post.description %}
+            {% else %}
             <p>{{ post.description }}</p>
             {% endif %}
 
