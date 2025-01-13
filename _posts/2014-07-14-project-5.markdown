@@ -6,12 +6,10 @@ img: safe.png
 alt: "Circus Image"
 project-date: January 2025
 description: |
-  This project showcases a dynamic modal structure with rich content. Below is the gallery featuring a single image.
+  # About the Project
+
+  This project highlights dynamic and modular designs in web development.
+
+  ## Gallery
+  ![Circus Image](/img/portfolio/circus.png)
 ---
-
-# About the Project
-
-This project highlights dynamic and modular designs in web development.
-
-## Gallery
-![Circus Image](/img/portfolio/circus.png)
