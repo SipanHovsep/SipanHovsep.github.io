@@ -2,8 +2,8 @@
 layout: default
 modal-id: 5
 date: 2025-01-10
-img: circus.png
-alt: "Circus Image"
+img: safe.png
+alt: "safe Image"
 project-date: January 2025
 description: |
   This project showcases a dynamic modal structure with rich content. Below is the gallery featuring a single image.
