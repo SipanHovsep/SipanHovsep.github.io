@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2025-01-10
-img: circus.png
+img: safe.png
 alt: "Circus Image"
 project-date: January 2025
 description: |
