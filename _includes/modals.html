@@ -21,10 +21,10 @@
 
             <!-- Description -->
             <div class="project-description">
-              {{ content | markdownify }}
+              {{ post.description | markdownify }}
             </div>
 
-            <!-- Additional details -->
+            <!-- Additional Details -->
             <ul class="list-inline item-details">
               {% if post.client %}
               <li>Client:
