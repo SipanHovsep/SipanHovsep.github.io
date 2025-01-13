@@ -10,3 +10,4 @@ description: Use this area of the page to describe your project. Lorem ipsum dol
 ---
 
 this is the actual post
+ ![](submarine.png)
