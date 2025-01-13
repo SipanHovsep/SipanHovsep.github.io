@@ -1,4 +1,3 @@
-
 ---
 layout: default
 modal-id: 5
@@ -9,6 +8,8 @@ project-date: January 2025
 description: |
   This project showcases a dynamic modal structure with rich content. Below is the gallery featuring a single image.
 ---
+
+
 
 # About the Project
 
