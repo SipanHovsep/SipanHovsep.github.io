@@ -2,8 +2,8 @@
 layout: default
 modal-id: 5
 date: 2025-01-10
+img: safe.png
 
-alt: image-alt
 project-date: January 2025
 description: Open the project description file.
 file-link: /assets/files/project-description.html
