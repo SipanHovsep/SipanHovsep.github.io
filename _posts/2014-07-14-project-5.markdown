@@ -2,77 +2,16 @@
 layout: default
 modal-id: 5
 date: 2025-01-10
-img: safe.png
+img: circus.png
 alt: "Circus Image"
 project-date: January 2025
 description: |
+  This project showcases a dynamic modal structure with rich content. Below is the gallery featuring a single image.
+---
 
+# About the Project
 
-# Personal Protective Equipment
+This project highlights dynamic and modular designs in web development.
 
-It’s highly recommended to have all the components shown in the infographics.
-
-![Infographic 1](img/safety/image1.png)
-![Infographic 2](img/safety/image2.png)
-
-UAE law mandates the use of helmets, availability of the red rear light and reflector, and a headlight.
-
-## In the Traffic
-
-Article 16 of the Traffic Law indicates that riders must stay on the road’s right side and should never ride their bicycles on pavements. Furthermore, if there is a designated cycle track, cyclists must stay on it and not leave unless it is absolutely necessary. Also, cyclists are required to ride in a single line, one after the other.
-
-Cyclists are not allowed to take the assistance of automobiles for pulling or dragging their cycles as well as transporting people. The only case in which they can do this is when the cycles are fitted for the purpose of being dragged.
-
-![Infographic 3](img/safety/image3.jpeg)
-
-As per Article 17, riding a bicycle without holding the steering rod or just sticking to it by one hand is prohibited in the UAE.
-
-Cyclists in the UAE must also take care of the speed and should always drive within the maximum speed limit. In the UAE, this limit is 40 km/h unless the road has a dedicated track for cycling.
-
-![Infographic 4](img/safety/image4.png)
-
-According to the Department of Traffic at Dubai Police, riding bicycles is not permitted on most of the roads with a speed limit of 60km per hour except the Jumeirah Road, which has a cycling track. Cyclists found riding on roads with speed limits of 60km/h or greater may be fined up to AED 600.
-
-## Violations and Fines
-
-![Infographic 5](img/safety/image5.png)
-
-| Violation                                                              | Fine (AED) |
-|------------------------------------------------------------------------|------------|
-| Failure to stick to the cycling lanes determined by the RTA            | 200        |
-| Exceeding the 60kmph speed limit                                       | 300        |
-| Riding a cycle in a manner that endangers the life and safety of others| 300        |
-| Riding or leaving a cycle on a lane designated for walking or jogging  | 200        |
-| Using an e-scooter or any type of cycle without a rider's permit       | 200        |
-| Carrying a passenger on a pedal cycle or an electric bike that is not fitted with the required equipment; or failure to wear the required vest and helmet | 200 |
-| Failure to comply with the speed limits prescribed by the RTA for cycle Lanes | 100 |
-| Carrying a passenger on an Electric Scooter                           | 300        |
-| Riding a cycle that does not meet the technical requirements           | 300        |
-| Parking a cycle at non-designated areas; or parking in a manner that obstructs the traffic of vehicles or pedestrians | 200 |
-| Failure to comply with the instructions displayed on the information signs on roads and cycle lanes | 200 |
-| Riding a pedal cycle by a person who is under the age of 12 years without being accompanied by a cyclist who is at least 18 years old | 200 |
-| Failure to dismount the cycle when on a pedestrian crossing            | 200        |
-| Failure to report an accident to the RTA, the Dubai Police, or the ambulance service | 300 |
-| Using the left-hand side of the road when riding a bicycle or an electric bike, or failure to ensure that the road is clear before changing lanes | 200 |
-| Riding against traffic                                                 | 200        |
-| Parking or driving a vehicle, or attempting to obstruct traffic, on a cycle lane | 300 |
-| Having the cycle towed by a vehicle or using the cycle for towing      | 300        |
-| Failure by an entity supervising group training to obtain the RTA’s prior approval of the training | 200 per person |
-| Undertaking independent training                                       | 100 per person |
-
-## General Guidelines
-
-![Infographic 6](img/safety/image6.png)
-
-- Be aware of the blind zone.
-- Use hand gestures to indicate your movements.
-
-## Additional Information
-
-![Infographic 7](img/safety/image7.png)
-
-This infographic provides a summary of essential safety tips for cyclists, including required equipment and compliance with traffic laws.
-
-![Infographic 8](img/safety/image8.png)
-
-This infographic outlines recommended guidelines for cyclists to avoid accidents and improve safety on the roads.
+## Gallery
+![Circus Image](/img/portfolio/circus.png)
