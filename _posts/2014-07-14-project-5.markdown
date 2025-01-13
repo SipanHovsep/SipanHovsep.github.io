@@ -5,9 +5,11 @@ date: 2025-01-10
 img: circus.png
 alt: "Circus Image"
 project-date: January 2025
-description: 
+description: |
 This project showcases a dynamic modal structure with rich content. Below is the gallery featuring a single image.
 ---
+
+
 # Personal Protective Equipment
 
 It’s highly recommended to have all the components shown in the infographics.
