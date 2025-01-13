@@ -5,30 +5,24 @@
   <div class="modal-content">
     <div class="close-modal" data-dismiss="modal">
       <div class="lr">
-        <div class="rl">
-        </div>
+        <div class="rl"></div>
       </div>
     </div>
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
+            <!-- Title -->
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
+            
+            <!-- Main Image -->
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
 
-            <!-- Corrected logic for file-link and description -->
-            {% if post.file-link %}
-            <iframe 
-              src="{{ post.file-link }}" 
-              width="100%" 
-              height="500px" 
-              style="border: none;" 
-              loading="lazy">
-            </iframe>
-            {% else %}
-            <p>{{ post.description }}</p>
-            {% endif %}
+            <!-- Description -->
+            <div class="project-description">
+              {{ content | markdownify }}
+            </div>
 
             <!-- Additional details -->
             <ul class="list-inline item-details">
@@ -48,8 +42,11 @@
               </li>
               {% endif %}
             </ul>
-            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
-              Close</button>
+
+            <!-- Close Button -->
+            <button type="button" class="btn btn-default" data-dismiss="modal">
+              <i class="fa fa-times"></i> Close
+            </button>
           </div>
         </div>
       </div>
