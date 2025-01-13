@@ -1,19 +1,14 @@
 ---
 layout: default
 modal-id: 5
-date: 2025-01-10
+title: Test Modal
 img: circus.png
 alt: "Circus Image"
-project-date: January 2025
+project-date: July 2014
 description: |
-  This project showcases a dynamic modal structure with rich content. Below is the gallery featuring a single image.
+  This is a test description for the modal.
 ---
 
+# Test Content
 
-
-# About the Project
-
-This project highlights dynamic and modular designs in web development.
-
-## Gallery
-![Circus Image](/img/portfolio/circus.png)
+This is a test to ensure the modal renders both description and content properly.
