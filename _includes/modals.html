@@ -15,25 +15,32 @@
             <!-- Title -->
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
-            
+
             <!-- Main Image -->
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
 
-            <!-- Description -->
+            <!-- Description from Front Matter -->
+            {% if post.description %}
             <div class="project-description">
               {{ post.description | markdownify }}
             </div>
+            {% endif %}
 
-            <!-- Additional Details -->
+            <!-- Additional Content from Markdown File -->
+            <div class="project-content">
+              {{ content | markdownify }}
+            </div>
+
+            <!-- Additional Project Details -->
             <ul class="list-inline item-details">
-              {% if post.client %}
-              <li>Client:
-                <strong>{{ post.client }}</strong>
-              </li>
-              {% endif %}
               {% if post.project-date %}
               <li>Date:
                 <strong>{{ post.project-date }}</strong>
+              </li>
+              {% endif %}
+              {% if post.client %}
+              <li>Client:
+                <strong>{{ post.client }}</strong>
               </li>
               {% endif %}
               {% if post.category %}
