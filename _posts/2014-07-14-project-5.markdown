@@ -1,10 +1,13 @@
 ---
 layout: default
-modal-id: 1
-title: Test Modal
-description: This is a test description.
+modal-id: 5
+date: 2025-01-10
+img: circus.png
+alt: "Circus Image"
+project-date: January 2025
+description: |
+  This project showcases a dynamic modal structure with rich content. Below is the gallery featuring a single image.
 ---
 
-# Test Content
 
-This is additional Markdown content.
+# Personal Protective Equipment
