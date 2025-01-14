@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2025-01-10
-img: cake.png
-alt: image-alt
+img: cabin.png
+alt: cabin-alt
 project-date: January 2025
 description: 
 ---
