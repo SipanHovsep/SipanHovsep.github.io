@@ -45,6 +45,7 @@ Various membership options for different budgets.
 Fees can add up if you exceed time limits.  
 Limited flexibility; must locate a nearby docking station.
 
+![Infographic 1](/img/own/image1.png)
 ---
 
 ### 1.2 ADCB Bikeshare (Powered by Cyacle)
@@ -77,6 +78,7 @@ Good option for both occasional riders and frequent commuters.
 Must dock every hour; not ideal for long uninterrupted rides.  
 Late fees may apply if you exceed time limits.
 
+![Infographic 2](/img/own/image2.png)
 ---
 
 ### 1.3 Byky
@@ -103,6 +105,8 @@ Straightforward rental process (pay at cashier, provide ID, go).
 Costs can escalate for longer rides.  
 Deposit required; must return in person to reclaim ID.
 
+
+![Infographic 3](/img/own/image3.png)
 ---
 
 ### 1.4 Wolfi’s (Premium Bike Rentals)
@@ -127,6 +131,8 @@ Perfect for races or intense training without the high purchase cost.
 Higher daily rate, not cost-effective for casual riders.  
 Availability and pedal type may require advance booking.
 
+
+![Infographic 4](/img/own/image4.jpg)
 ---
 
 ## 2. Pros & Cons of Renting
@@ -165,6 +171,10 @@ Local shops (e.g., **CROSS ROAD** in the A2 Building; around AED 800, quality ma
 Condition varies; you need to inspect carefully.  
 No official warranty or service package.
 
+
+![Infographic 5](/img/own/image5.png)
+
+![Infographic 6](/img/own/image6.png)
 ---
 
 ### 3.2 Buying New
