@@ -2,16 +2,46 @@
 layout: default
 modal-id: 1
 date: 2025-01-10
-img: cabin.png
+img: cake.png
 alt: image-alt
 project-date: January 2025
-description: >
-  <h2>Project Title</h2>
-  <p>This is the first paragraph of the description.</p>
-  <p>This is the second paragraph.</p>
-  <ul>
-    <li>Feature 1</li>
-    <li>Feature 2</li>
-  </ul>
+description: 
+---
+
+## 7. How to Get a Bike (On Campus)
+
+### 7.1 Bike Racks
+Bicycles **must** be secured to the designated bike racks on campus—never to light posts, trees, or handrails.  
+Currently, bike racks are available only on the High Line (the elevated walkway). You can access these racks by using the ramps behind West Apartments (B1) or East Apartments (B2) on the north side of campus.  
+**Important**: Any bicycle found chained to unapproved elements (like fences or posts) may be confiscated, as may any bicycle deemed abandoned.
+
+### 7.2 NYUAD Bikeshare Program
+The **NYUAD Bikeshare Program** offers free weekly bike rentals for students during the academic year.  
+
+**Sign-Up Process**  
+Each **Tuesday**, a request form appears on the student portal.  
+**30 students** are randomly selected each week.  
+
+**Pick-Up and Return**  
+If you’re selected, you’ll pick up your bike from the **B2 bike share room** on **Thursday**. (To find the room, take the elevator near A5.)  
+You must return the bike by the following **Tuesday**.
+
+**What’s Included**  
+**Helmet** provided (no need to buy one).  
+**Security lock** included so you can safely park the bike on Saadiyat Island.
+
+**Bike Types**  
+Standard **road bikes** and **mountain bikes** available.  
+**Professional road bikes** can be issued on a longer-term basis for student athletes or those undergoing regular training.
+
+**Usage Rules**  
+You can only borrow a bike once every two weeks. (If you’re chosen one week, you won’t be selected the next.)  
+Bikes **cannot be taken off Saadiyat Island**. They must remain on campus or within Saadiyat.  
+Always lock the bike when not in use.
+
+**Tip: Borrow Under a Friend’s Name**  
+If you really need a bike but didn’t get selected, you can arrange with a friend (with their consent) so they sign up and you use the bike. This can improve your chances of having access to a bike when you need it.
 
 ---
+
+By following these steps—securing your bike to official racks and leveraging the NYUAD Bikeshare Program—you can easily enjoy cycling on campus without the added expense of buying and storing your own bike. Happy riding!
