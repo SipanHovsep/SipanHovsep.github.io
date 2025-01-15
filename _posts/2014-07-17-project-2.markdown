@@ -7,6 +7,9 @@ alt: image-alt
 project-date: January 2025
 description: Renting is good owning is better
 ---
+
+<div style="text-align: left;">
+
 # Bike Renting vs. Owning: A Student's Guide in Abu Dhabi
 
 Living in Abu Dhabi (or Dubai) as a student means you have plenty of opportunities to cycle—be it for leisure, exercise, or a quick commute around campus. With bike rental stations expanding and new options for buying both used and new bikes, it can be tricky to figure out the best fit for your needs and budget. Below, you’ll find an overview of popular rental services, as well as pros and cons of owning your own bike (either used or new).
