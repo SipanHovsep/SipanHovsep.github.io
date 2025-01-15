@@ -8,17 +8,63 @@ project-date: January 2025
 description: 
   This project showcases a dynamic modal structure with rich content. Below is the gallery featuring a single image.
 ---
-# Maps and Routes
-
 <div style="text-align: left;">
-Below are maps illustrating our suggested routes, including integrated icons, pictures, and explanatory notes.
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1lZdCvFmYJq77S0Sjpb-OrTSmaPOKO7s&ehbc=2E312F" width="640" height="480"></iframe>
-  
-Chill ride for around 1 hour. 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=13Sw5W96PwP5l7B6KZq8cXnyPftQ9HuQ&ehbc=2E312F" width="640" height="480"></iframe>
 
-Long ride to explore the island. 
+
+# Suggested Cycling Routes on Saadiyat Island
+
+Below are maps illustrating our suggested routes, complete with integrated icons, pictures, and explanatory notes. Each route offers a different way to experience the island's scenery, culture, and activities.
+
+---
+
+## Saadiyat Beach Golf Club Ride
+ 
+Saadiyat Beach Golf Club is renowned for its stunning sea views, well-maintained paths, and roaming deer that you can occasionally spot up close. To access this route, head to the marked “entrance” under the bridge. There’s no barrier—simply carry your bike onto the golf road. You’ll exit the same way after enjoying the scenery.
+
+**Highlights:**
+**Beautiful Sea Views:** Enjoy panoramic vistas of the coastline.  
+**Wildlife Encounters:** Keep an eye out for free-roaming deer.  
+**Easy Access:** Clear entry and exit points under the bridge.  
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1lZdCvFmYJq77S0Sjpb-OrTSmaPOKO7s&ehbc=2E312F" width="640" height="480"></iframe>
+---
+
+## One-Hour Chill Ride
+**Map 2**  
+This relaxed route takes about an hour and showcases many of the island’s natural and cultural gems. Within 15 minutes, you’ll reach Mamsha—an energetic waterfront area ideal for soaking in the coastal atmosphere. While biking, remember that the lane closest to the restaurants is off-limits for bikes; use the second lane instead.
+
+**Refueling Stop:**  
+  Carrefour is located on the first floor of the second building you’ll see when coming from the university. You can park your bike outside and grab water or snacks at reasonable prices.
+
+**Art & Culture Stops:**  
+ **Guggenheim Abu Dhabi Construction Site:** Get a preview of this future landmark.  
+ **Louvre Abu Dhabi:** Even if the museum is closed, the outdoor park is open, offering sea views and seating areas.  
+ **Abrahamic Family House:** Free to enter (simple registration required) during working hours; note the dress code.  
+ **Manarat Al Saadiyat & Bassam Freiha Art Foundation:** Explore contemporary and regional art exhibitions, and check out weekly cultural events.
+
+**Highlights:**
+ **Scenic Waterfront:** Ride along the coast at Mamsha.  
+ **Convenient Shopping:** Easy access to Carrefour for supplies.  
+ **Major Landmarks:** Pass by world-class museums and cultural sites.
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=13Sw5W96PwP5l7B6KZq8cXnyPftQ9HuQ&ehbc=2E312F" width="640" height="480"></iframe>
+---
+
+## Long Island Exploration
+If you’re aiming for 20km or more without having to cross major highways, this route is perfect. It takes you to the far end of Saadiyat Island, passing through the Hidd Al Saadiyat neighborhood. Here, you’ll find some of the finest cycling paths on the island, with the sea on both sides—ideal for soaking in relaxing ocean sounds and mesmerizing views. On the way, you can stop at Waitrose supermarket, which offers an impressive range of international food and snacks.
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DeioDwMLb7j8iUodj53QhEpH7CVAbC0&ehbc=2E312F" width="640" height="480"></iframe>
 
-Shortest ride to the beach
+---
+
+## Quick Beach Getaway
+Short on time or simply craving some sun and sand? This shorter route leads you through the St. Regis area straight to the beach. The area often hosts open parties and concerts, creating a vibrant, lively atmosphere that adds an extra dose of excitement to your beach day.
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1H100N3BdYMHHeh2Lz7XdUX4hpJ2QIWE&ehbc=2E312F" width="640" height="480"></iframe>
+
+
+
+
+
+
+
