@@ -8,18 +8,20 @@ project-date: January 2025
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
 
+<div style="text-align: left;">
+
 # Comprehensive Guide to Biking in Abu Dhabi
 
 Abu Dhabi’s cycling community thrives thanks to government initiatives, world-class tracks, and community support.
 
-- **Bike Abu Dhabi Initiative**: With premier tracks at Hudayriyat Island (28km) and Al Wathba (40km), plus a future expansion to over 1,000km, Bike Abu Dhabi connects mobility, health, and sport.  
+**Bike Abu Dhabi Initiative**: With premier tracks at Hudayriyat Island (28km) and Al Wathba (40km), plus a future expansion to over 1,000km, Bike Abu Dhabi connects mobility, health, and sport.  
 [Visit Bike Abu Dhabi](https://www.bike.abudhabi/en/about/)
 
-- **Cycling Highlights**: Enjoy rides along the Corniche, train on Yas Marina Circuit, or experience desert cycling at Al Wathba. Careem Bike sharing adds convenience to city cycling.  
+**Cycling Highlights**: Enjoy rides along the Corniche, train on Yas Marina Circuit, or experience desert cycling at Al Wathba. Careem Bike sharing adds convenience to city cycling.  
 [Details at Visit Abu Dhabi](https://visitabudhabi.ae/en/things-to-do/sports-activities/cycling)
 
-- **CyclingTracks.ae**: An essential directory for cycling paths in Abu Dhabi and beyond, with videos and maps to guide your adventures.  
+**CyclingTracks.ae**: An essential directory for cycling paths in Abu Dhabi and beyond, with videos and maps to guide your adventures.  
 [Explore Cycling Tracks](https://www.cyclingtracks.ae/)
 
-- **UAE Cycling Federation**: A central hub for cycling events, resources, and support throughout the UAE.  
+**UAE Cycling Federation**: A central hub for cycling events, resources, and support throughout the UAE.  
 [Learn More at UAE Cycling Federation](https://www.uaecf.ae/home)
