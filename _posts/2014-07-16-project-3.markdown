@@ -9,6 +9,7 @@ description: |
   This project showcases a dynamic modal structure with rich content. Below is the gallery featuring a single image.
 ---
 
+<div style="text-align: left;">
 
 # Personal Protective Equipment
 
