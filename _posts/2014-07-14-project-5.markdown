@@ -19,3 +19,6 @@ Chill ride for around 1 hour.
 
 Long ride to explore the island. 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DeioDwMLb7j8iUodj53QhEpH7CVAbC0&ehbc=2E312F" width="640" height="480"></iframe>
+
+Shortest ride to the beach
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1H100N3BdYMHHeh2Lz7XdUX4hpJ2QIWE&ehbc=2E312F" width="640" height="480"></iframe>
