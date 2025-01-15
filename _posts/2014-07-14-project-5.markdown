@@ -6,7 +6,6 @@ img: safe.png
 alt: "Safe Image"
 project-date: January 2025
 description: 
-  This project showcases a dynamic modal structure with rich content. Below is the gallery featuring a single image.
 ---
 <div style="text-align: left;">
 
