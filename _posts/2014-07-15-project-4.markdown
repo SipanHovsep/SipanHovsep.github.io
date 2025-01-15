@@ -15,25 +15,36 @@ description: Use this area of the page to describe your project. Lorem ipsum dol
 Abu Dhabi’s cycling community thrives thanks to government initiatives, world-class tracks, and community support.
 
 **Bike Abu Dhabi Initiative**: With premier tracks at Hudayriyat Island (28km) and Al Wathba (40km), plus a future expansion to over 1,000km, Bike Abu Dhabi connects mobility, health, and sport.  
+
 [Visit Bike Abu Dhabi](https://www.bike.abudhabi/en/about/)
 
 ![Infographic 1](/img/useful/image1.png)
 
 The website also features tips available for cyclists
+
 ![Infographic 2](/img/useful/image2.png)
 
+
+
 **Cycling Highlights**: Enjoy rides along the Corniche, train on Yas Marina Circuit, or experience desert cycling at Al Wathba. Careem Bike sharing adds convenience to city cycling.  
+
 [Details at Visit Abu Dhabi](https://visitabudhabi.ae/en/things-to-do/sports-activities/cycling)
 
 ![Infographic 3](/img/useful/image3.png)
 
+
+
 **CyclingTracks.ae**: An essential directory for cycling paths in Abu Dhabi and beyond, with videos and maps to guide your adventures.  
+
 [Explore Cycling Tracks](https://www.cyclingtracks.ae/)
 
 ![Infographic 4](/img/useful/image4.png)
 
 
+
+
 **UAE Cycling Federation**: A central hub for cycling events, resources, and support throughout the UAE.  
+
 [Learn More at UAE Cycling Federation](https://www.uaecf.ae/home)
 
 ![Infographic 5](/img/useful/image5.png)
