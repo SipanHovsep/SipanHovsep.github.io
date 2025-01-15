@@ -12,9 +12,6 @@ description:
 
 <div style="text-align: left;">
 Below are maps illustrating our suggested routes, including integrated icons, pictures, and explanatory notes.
-</div>
-
-
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1lZdCvFmYJq77S0Sjpb-OrTSmaPOKO7s&ehbc=2E312F" width="640" height="480"></iframe>
 
 
