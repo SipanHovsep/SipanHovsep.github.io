@@ -19,6 +19,5 @@ Below are maps illustrating our suggested routes, including integrated icons, pi
 
 <div style="text-align: left;">
 Chill ride for around 1 hour. 
-
   
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=13Sw5W96PwP5l7B6KZq8cXnyPftQ9HuQ&ehbc=2E312F" width="640" height="480"></iframe>
